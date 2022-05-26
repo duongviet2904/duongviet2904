@@ -28,3 +28,5 @@
 </br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duongviet2904&layout=compact&show_icons=true&theme=radical)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duongviet2904&layout=compact) -->
+</br>
+![snake gif](https://github.com/duongviet2904/duongviet2904/blob/output/github-contribution-grid-snake.gif)
