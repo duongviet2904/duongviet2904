@@ -1,10 +1,5 @@
 # Hi there, I'm VDuong 👋 
 
-## I'm a Student and also a daydreamer!
-
-- 🌱 I’m currently learning everything 🤣
-- ⚡ Fun fact: I love to draw and travel!
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
