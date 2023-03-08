@@ -1,4 +1,4 @@
-# Hi there, I'm VDuong 👋 
+# Hi there, I'm VDuong (Harry V) 👋 
 
 ### Languages and Tools:
 
