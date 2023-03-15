@@ -26,7 +26,7 @@
 -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duongviet2904&layout=compact) -->
 
-<div style="display:flex; align-items: flex-end;">
+<div style="display:flex;">
   <img src="https://github-readme-stats.vercel.app/api?username=duongviet2904&show_icons=true&theme=default" alt="VDuong's GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duongviet2904&layout=compact&show_icons=true&theme=default" alt="VDuong's Top Langs">
 </div>
