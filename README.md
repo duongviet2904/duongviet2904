@@ -27,8 +27,8 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duongviet2904&layout=compact) -->
 
 <div style="display:flex; border:none;">
-  <img src="https://github-readme-stats.vercel.app/api?username=duongviet2904&show_icons=true&theme=default" alt="VDuong's GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duongviet2904&layout=compact&show_icons=true&theme=default" alt="VDuong's Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api?username=duongviet2904&show_icons=true&theme=default" alt="VDuong's GitHub Stats" width='195px'>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duongviet2904&layout=compact&show_icons=true&theme=default" alt="VDuong's Top Langs" width='195px'>
 </div>
 
 </br>
