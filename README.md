@@ -20,9 +20,9 @@
 <br />
 <br />
 
-![VDuong's GitHub stats](https://github-readme-stats.vercel.app/api?username=duongviet2904&show_icons=true&theme=radical)
+![VDuong's GitHub stats](https://github-readme-stats.vercel.app/api?username=duongviet2904&show_icons=true&theme=transparent)
 </br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duongviet2904&layout=compact&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duongviet2904&layout=compact&show_icons=true&theme=transparent)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duongviet2904&layout=compact) -->
 </br>
 
