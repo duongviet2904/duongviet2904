@@ -1,5 +1,7 @@
-# Hi there, I'm VDuong (Harry V) 👋 
-
+<div style="display:flex">
+  <div>![](https://media.tenor.com/6us3et_6HDoAAAAC/hello-there-hi-there.gif)</div>
+  <div> I'm VDuong (Harry V) 👋 </div>
+</div>
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
