@@ -1,4 +1,4 @@
-# Hi there! I'm VDuong - a <img alt="Magento 2" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/magento/magento-original.svg"/> Magento Developer 👋
+# Hi there! I'm VDuong - a <img alt="Magento 2" width="32px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/magento/magento-original.svg"/> Magento Developer 👋
 ### Languages and Tools:
 <div style="display:grid">
     <div>
@@ -21,7 +21,7 @@
     </div>
 </div>
 <br />
-
+<br />
 <!-- ![VDuong's GitHub stats](https://github-readme-stats.vercel.app/api?username=duongviet2904&show_icons=true&theme=default)
 </br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duongviet2904&layout=compact&show_icons=true&theme=default)
