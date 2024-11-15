@@ -1,4 +1,4 @@
-# Hi there! I'm VDuong - a <img alt="Magento 2" width="32px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/magento/magento-original.svg"/> Magento Developer 👋
+# Hi there! I'm VDuong 👋 - a Magento Developer <img alt="Magento 2" width="32px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/magento/magento-original.svg"/>
 ### Languages and Tools:
 <div style="display:grid">
     <div>
